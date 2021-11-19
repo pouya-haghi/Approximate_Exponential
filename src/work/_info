@@ -1,0 +1,679 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\graduate courses\VHDL\CA2\code
+T_opt
+VL_?jk8ddO?8C3gLd_f2Mn1
+04 7 5 work testtop timed 1
+=1-0026185bb838-5a26c4af-168-4314
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OL;O;10.1c;51
+Eadder32
+Z1 w1512488413
+Z2 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z4 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z5 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z6 dD:\graduate courses\VHDL\CA2\code
+Z7 8D:/graduate courses/VHDL/CA2/code/adder32.vhd
+Z8 FD:/graduate courses/VHDL/CA2/code/adder32.vhd
+l0
+L4
+Vz]L?47V;5?bmEKeHT^i:41
+Z9 OL;C;10.1c;51
+32
+Z10 !s108 1512490136.407000
+Z11 !s90 -reportprogress|300|-work|work|D:/graduate courses/VHDL/CA2/code/adder32.vhd|
+Z12 !s107 D:/graduate courses/VHDL/CA2/code/adder32.vhd|
+Z13 o-work work
+Z14 tExplicit 1
+!s100 RjdiIn27]1@?[ZY7QE3Ie0
+!i10b 1
+Aexpression
+R2
+R3
+R4
+R5
+Z15 DEx4 work 7 adder32 0 22 z]L?47V;5?bmEKeHT^i:41
+l13
+L11
+VWjQbTfD]f83;@E4C`NU@?0
+R9
+32
+R10
+R11
+R12
+R13
+R14
+!s100 kBzaiJ9bz>Rid0eFF_`^b0
+!i10b 1
+Ecomparator
+Z16 w1511450911
+R4
+R5
+R6
+Z17 8D:/graduate courses/VHDL/CA2/code/comparator.vhd
+Z18 FD:/graduate courses/VHDL/CA2/code/comparator.vhd
+l0
+L4
+VWSbNB6BIVO<aT`lRo2E;?1
+R9
+32
+Z19 !s108 1512490136.909000
+Z20 !s90 -reportprogress|300|-work|work|D:/graduate courses/VHDL/CA2/code/comparator.vhd|
+Z21 !s107 D:/graduate courses/VHDL/CA2/code/comparator.vhd|
+R13
+R14
+!s100 M[Nh:h9P`T764JD5YHaEE0
+!i10b 1
+Abehavioral
+R4
+R5
+Z22 DEx4 work 10 comparator 0 22 WSbNB6BIVO<aT`lRo2E;?1
+l12
+L10
+VbF0^>N8lLi7M=e;C1mRk[3
+R9
+32
+R19
+R20
+R21
+R13
+R14
+!s100 2gJ1IfEVfiN6]i]5fYYEb0
+!i10b 1
+Econtroller
+Z23 w1511591115
+R4
+R5
+R6
+Z24 8D:/graduate courses/VHDL/CA2/code/controller.vhd
+Z25 FD:/graduate courses/VHDL/CA2/code/controller.vhd
+l0
+L4
+V1TNkY@4gBS3zm8FPObLO50
+R9
+32
+Z26 !s108 1512490137.059000
+Z27 !s90 -reportprogress|300|-work|work|D:/graduate courses/VHDL/CA2/code/controller.vhd|
+Z28 !s107 D:/graduate courses/VHDL/CA2/code/controller.vhd|
+R13
+R14
+!s100 jz98ggaj0i6M;_zdBkF;<1
+!i10b 1
+Abehavioral
+R4
+R5
+Z29 DEx4 work 10 controller 0 22 1TNkY@4gBS3zm8FPObLO50
+l24
+L20
+V8D7<TIf^@GmPF_NbQ[:822
+R9
+32
+R26
+R27
+R28
+R13
+R14
+!s100 R4E@BiZa]XXnAhEP6YONn0
+!i10b 1
+Ecounter
+Z30 w1511447475
+R2
+R3
+R4
+R5
+R6
+Z31 8D:/graduate courses/VHDL/CA2/code/counter.vhd
+Z32 FD:/graduate courses/VHDL/CA2/code/counter.vhd
+l0
+L6
+Vzedn29NkaKzHkh?E2d5=;1
+R9
+32
+Z33 !s108 1512490137.240000
+Z34 !s90 -reportprogress|300|-work|work|D:/graduate courses/VHDL/CA2/code/counter.vhd|
+Z35 !s107 D:/graduate courses/VHDL/CA2/code/counter.vhd|
+R13
+R14
+!s100 9VcLkz7;XiDLWcJPSQP@30
+!i10b 1
+Abehavioral
+R2
+R3
+R4
+R5
+Z36 DEx4 work 7 counter 0 22 zedn29NkaKzHkh?E2d5=;1
+l15
+L13
+V6A088mPMz:Fg9@z5cgYVU0
+R9
+32
+R33
+R34
+R35
+R13
+R14
+!s100 kRO2zYgl?@U5JHBL62[oK1
+!i10b 1
+Eflopenp
+Z37 w1511539619
+R4
+R5
+R6
+Z38 8D:/graduate courses/VHDL/CA2/code/flopenp.vhd
+Z39 FD:/graduate courses/VHDL/CA2/code/flopenp.vhd
+l0
+L4
+VnmjJ5oN6im^@I]^HPd4=`0
+R9
+32
+Z40 !s108 1512490137.397000
+Z41 !s90 -reportprogress|300|-work|work|D:/graduate courses/VHDL/CA2/code/flopenp.vhd|
+Z42 !s107 D:/graduate courses/VHDL/CA2/code/flopenp.vhd|
+R13
+R14
+!s100 Z^T=e6O]cihnjTzUPzTSL1
+!i10b 1
+Ablocked
+R4
+R5
+Z43 DEx4 work 7 flopenp 0 22 nmjJ5oN6im^@I]^HPd4=`0
+l14
+L12
+VoZPcN0MXU;Nfo86iRZ2H10
+R9
+32
+R40
+R41
+R42
+R13
+R14
+!s100 c^n1WkA67E;X[766K=5Fo1
+!i10b 1
+Eflopenr
+Z44 w1511539662
+R4
+R5
+R6
+Z45 8D:/graduate courses/VHDL/CA2/code/flopenr.vhd
+Z46 FD:/graduate courses/VHDL/CA2/code/flopenr.vhd
+l0
+L4
+VmUW:=3f<hOUee@hT=GCS30
+R9
+32
+Z47 !s108 1512490137.534000
+Z48 !s90 -reportprogress|300|-work|work|D:/graduate courses/VHDL/CA2/code/flopenr.vhd|
+Z49 !s107 D:/graduate courses/VHDL/CA2/code/flopenr.vhd|
+R13
+R14
+!s100 D@=1PlfSX:ZZZ7R:HMGN83
+!i10b 1
+Ablocked
+R4
+R5
+Z50 DEx4 work 7 flopenr 0 22 mUW:=3f<hOUee@hT=GCS30
+l10
+L8
+Vz2mQd2Tl?1eBYU2BklD]V1
+R9
+32
+R47
+R48
+R49
+R13
+R14
+!s100 bPNM7IOMk?3lQ8DOEn<VH1
+!i10b 1
+Ehalfadder
+Z51 w1511447710
+R4
+R5
+R6
+Z52 8D:/graduate courses/VHDL/CA2/code/halfAdder.vhd
+Z53 FD:/graduate courses/VHDL/CA2/code/halfAdder.vhd
+l0
+L5
+VK78^niGGgf`YTg@3R@]2:0
+R9
+32
+Z54 !s108 1512490137.672000
+Z55 !s90 -reportprogress|300|-work|work|D:/graduate courses/VHDL/CA2/code/halfAdder.vhd|
+Z56 !s107 D:/graduate courses/VHDL/CA2/code/halfAdder.vhd|
+R13
+R14
+!s100 RGnzzGLRABl=^8g<?R>XM0
+!i10b 1
+Aexpression
+R4
+R5
+Z57 DEx4 work 9 halfadder 0 22 K78^niGGgf`YTg@3R@]2:0
+l14
+L12
+V>]OjRI0GZa]UKa8KmA8SI1
+R9
+32
+R54
+R55
+R56
+R13
+R14
+!s100 DCIo[B4f:E0a5Df=f]G>>0
+!i10b 1
+Emultiplier
+Z58 w1512488340
+R2
+R3
+R4
+R5
+R6
+Z59 8D:/graduate courses/VHDL/CA2/code/multiplier.vhd
+Z60 FD:/graduate courses/VHDL/CA2/code/multiplier.vhd
+l0
+L4
+V;4ULmN<E3>:KO?CLg1On]1
+R9
+32
+Z61 !s108 1512490137.815000
+Z62 !s90 -reportprogress|300|-work|work|D:/graduate courses/VHDL/CA2/code/multiplier.vhd|
+Z63 !s107 D:/graduate courses/VHDL/CA2/code/multiplier.vhd|
+R13
+R14
+!s100 8B4BQDgaW39R0_kf1eN8j0
+!i10b 1
+Abehavioral
+R2
+R3
+R4
+R5
+Z64 DEx4 work 10 multiplier 0 22 ;4ULmN<E3>:KO?CLg1On]1
+l12
+L10
+VChNLDMTYL;jPEYQiLoR[V1
+R9
+32
+R61
+R62
+R63
+R13
+R14
+!s100 UWFcfgOeV>YJnfD<7bO^z0
+!i10b 1
+Emux2
+Z65 w1512488186
+R4
+R5
+R6
+Z66 8D:/graduate courses/VHDL/CA2/code/mux2.vhd
+Z67 FD:/graduate courses/VHDL/CA2/code/mux2.vhd
+l0
+L5
+V]j_IVNMB11NSC9cd_>9i`1
+R9
+32
+Z68 !s108 1512490138.011000
+Z69 !s90 -reportprogress|300|-work|work|D:/graduate courses/VHDL/CA2/code/mux2.vhd|
+Z70 !s107 D:/graduate courses/VHDL/CA2/code/mux2.vhd|
+R13
+R14
+!s100 h=HVbDBUh<CVAhaTT`_^C2
+!i10b 1
+Abehavioral
+R4
+R5
+Z71 DEx4 work 4 mux2 0 22 ]j_IVNMB11NSC9cd_>9i`1
+l14
+L12
+VE8NYO86zENM]:C8_Y1G<63
+R9
+32
+R68
+R69
+R70
+R13
+R14
+!s100 RQibSDh0l0EFXJXNgTW_@0
+!i10b 1
+Epriorityenc
+Z72 w1512488028
+R4
+R5
+R6
+Z73 8D:/graduate courses/VHDL/CA2/code/priorityEnc.vhd
+Z74 FD:/graduate courses/VHDL/CA2/code/priorityEnc.vhd
+l0
+L4
+VXRz4;lN^zCnonHklJY2Wi1
+R9
+32
+Z75 !s108 1512490138.147000
+Z76 !s90 -reportprogress|300|-work|work|D:/graduate courses/VHDL/CA2/code/priorityEnc.vhd|
+Z77 !s107 D:/graduate courses/VHDL/CA2/code/priorityEnc.vhd|
+R13
+R14
+!s100 GF9<YNGS@T]>89C9VQYCE1
+!i10b 1
+Abehavioral
+R4
+R5
+Z78 DEx4 work 11 priorityenc 0 22 XRz4;lN^zCnonHklJY2Wi1
+l11
+L9
+V3i<n0`SY1c7i67Qa_>_RY0
+R9
+32
+R75
+R76
+R77
+R13
+R14
+!s100 PO4X;GKQXk?5AIlzV:hh22
+!i10b 1
+Eregisterp
+Z79 w1512488109
+R4
+R5
+R6
+Z80 8D:/graduate courses/VHDL/CA2/code/registerP.vhd
+Z81 FD:/graduate courses/VHDL/CA2/code/registerP.vhd
+l0
+L4
+V3faE[hW>4lRHAAVC@[OZB2
+R9
+32
+Z82 !s108 1512490138.287000
+Z83 !s90 -reportprogress|300|-work|work|D:/graduate courses/VHDL/CA2/code/registerP.vhd|
+Z84 !s107 D:/graduate courses/VHDL/CA2/code/registerP.vhd|
+R13
+R14
+!s100 ?TGHI9GaCUVQ:nY[5CQ=K2
+!i10b 1
+Acomponented
+R4
+R5
+Z85 DEx4 work 9 registerp 0 22 3faE[hW>4lRHAAVC@[OZB2
+l17
+L12
+VUE[<mdQ0c`3OnNdcAVHCC2
+R9
+32
+R82
+R83
+R84
+R13
+R14
+!s100 fFjTUS@?9QPQmUP0<;W9b0
+!i10b 1
+Eregisterr
+Z86 w1512488156
+R4
+R5
+R6
+Z87 8D:/graduate courses/VHDL/CA2/code/registerR.vhd
+Z88 FD:/graduate courses/VHDL/CA2/code/registerR.vhd
+l0
+L4
+VGGSiZZ<7<OII8F7UadXmJ3
+R9
+32
+Z89 !s108 1512490138.447000
+Z90 !s90 -reportprogress|300|-work|work|D:/graduate courses/VHDL/CA2/code/registerR.vhd|
+Z91 !s107 D:/graduate courses/VHDL/CA2/code/registerR.vhd|
+R13
+R14
+!s100 6eQ5aKPJT8Kgn]4[`12:i0
+!i10b 1
+Acomponented
+R4
+R5
+Z92 DEx4 work 9 registerr 0 22 GGSiZZ<7<OII8F7UadXmJ3
+l18
+L12
+V=6eZbkm7I[F1Gm6aWXj@L1
+R9
+32
+R89
+R90
+R91
+R13
+R14
+!s100 ZSFG^F=;b7fDWcGdB77]]3
+!i10b 1
+Eregisterr4
+Z93 w1511590758
+R4
+R5
+R6
+Z94 8D:/graduate courses/VHDL/CA2/code/registerR4.vhd
+Z95 FD:/graduate courses/VHDL/CA2/code/registerR4.vhd
+l0
+L4
+VQX>aIk14^Z:WW4hBLShRU1
+R9
+32
+Z96 !s108 1512490138.591000
+Z97 !s90 -reportprogress|300|-work|work|D:/graduate courses/VHDL/CA2/code/registerR4.vhd|
+Z98 !s107 D:/graduate courses/VHDL/CA2/code/registerR4.vhd|
+R13
+R14
+!s100 VLDG4AaM?HfiWV7bHWk[z1
+!i10b 1
+Acomponented
+R4
+R5
+Z99 DEx4 work 10 registerr4 0 22 QX>aIk14^Z:WW4hBLShRU1
+l18
+L12
+VaDmi1GEg9=VBXT>8RS0Z33
+R9
+32
+R96
+R97
+R98
+R13
+R14
+!s100 E^mS=Jmc>DG168fSdQahA2
+!i10b 1
+Eromfact
+Z100 w1512489324
+R4
+R5
+R6
+Z101 8D:/graduate courses/VHDL/CA2/code/ROMfact.vhd
+Z102 FD:/graduate courses/VHDL/CA2/code/ROMfact.vhd
+l0
+L4
+VRaP<4Pz>fcUn17M8cJD<j0
+R9
+32
+Z103 !s108 1512490138.733000
+Z104 !s90 -reportprogress|300|-work|work|D:/graduate courses/VHDL/CA2/code/ROMfact.vhd|
+Z105 !s107 D:/graduate courses/VHDL/CA2/code/ROMfact.vhd|
+R13
+R14
+!s100 iZXXZ?lnY6fGc:PXU@>ad0
+!i10b 1
+Abehavioral
+R4
+R5
+Z106 DEx4 work 7 romfact 0 22 RaP<4Pz>fcUn17M8cJD<j0
+l10
+L9
+VO1g]_OE:k8Lee<=oFX7P;2
+R9
+32
+R103
+R104
+R105
+R13
+R14
+!s100 lnU>5;nbf=33:WO0`YGEZ2
+!i10b 1
+Eromiteration
+Z107 w1512488688
+R4
+R5
+R6
+Z108 8D:/graduate courses/VHDL/CA2/code/ROMiteration.vhd
+Z109 FD:/graduate courses/VHDL/CA2/code/ROMiteration.vhd
+l0
+L4
+VR6Oz>0g4[DH4mofbgRVbY0
+R9
+32
+Z110 !s108 1512490138.916000
+Z111 !s90 -reportprogress|300|-work|work|D:/graduate courses/VHDL/CA2/code/ROMiteration.vhd|
+Z112 !s107 D:/graduate courses/VHDL/CA2/code/ROMiteration.vhd|
+R13
+R14
+!s100 =O6D`Hf>OV<ic0ANo>UH91
+!i10b 1
+Abehavioral
+R4
+R5
+Z113 DEx4 work 12 romiteration 0 22 R6Oz>0g4[DH4mofbgRVbY0
+l10
+L9
+V^J0QzeGnGW0PO_z9RLWI40
+R9
+32
+R110
+R111
+R112
+R13
+R14
+!s100 b8EKRR91Nj;:V`5bjCNgg1
+!i10b 1
+Esubtractor4
+Z114 w1511531406
+R2
+R3
+R4
+R5
+R6
+Z115 8D:/graduate courses/VHDL/CA2/code/subtractor4.vhd
+Z116 FD:/graduate courses/VHDL/CA2/code/subtractor4.vhd
+l0
+L5
+V<T8BlGD7=GhXnf]go@I=T0
+R9
+32
+Z117 !s108 1512490139.059000
+Z118 !s90 -reportprogress|300|-work|work|D:/graduate courses/VHDL/CA2/code/subtractor4.vhd|
+Z119 !s107 D:/graduate courses/VHDL/CA2/code/subtractor4.vhd|
+R13
+R14
+!s100 i86Olle?TH3]X7IzP`Kgj0
+!i10b 1
+Abehavioral
+R2
+R3
+R4
+R5
+Z120 DEx4 work 11 subtractor4 0 22 <T8BlGD7=GhXnf]go@I=T0
+l14
+L12
+VGRAIHCI9K?2Uf]Y8@EJg61
+R9
+32
+R117
+R118
+R119
+R13
+R14
+!s100 =VGQj51QNhT_bKhIiRTIe3
+!i10b 1
+Etesttop
+Z121 w1512489944
+Z122 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R4
+R5
+R6
+Z123 8D:/graduate courses/VHDL/CA2/code/testTop.vhd
+Z124 FD:/graduate courses/VHDL/CA2/code/testTop.vhd
+l0
+L4
+Ve8`EHgS9dC@ezYd[Ba:@I1
+R9
+32
+Z125 !s108 1512490146.848000
+Z126 !s90 -reportprogress|300|-work|work|D:/graduate courses/VHDL/CA2/code/testTop.vhd|
+Z127 !s107 D:/graduate courses/VHDL/CA2/code/testTop.vhd|
+R13
+R14
+!s100 NC5>3SQ8mJFo18Sk58TKf0
+!i10b 1
+Atimed
+Z128 DEx4 work 3 top 0 22 ;2KAWm^TAoHo14bTI>ak42
+R122
+R4
+R5
+DEx4 work 7 testtop 0 22 e8`EHgS9dC@ezYd[Ba:@I1
+l24
+L7
+V>=cXH3?gl^3C5[]jWGU1a2
+R9
+32
+R125
+R126
+R127
+R13
+R14
+!s100 NS4B1WieYjb;2nNE>>[nF3
+!i10b 1
+Etop
+Z129 w1512489870
+R4
+R5
+R6
+Z130 8D:/graduate courses/VHDL/CA2/code/top.vhd
+Z131 FD:/graduate courses/VHDL/CA2/code/top.vhd
+l0
+L4
+V;2KAWm^TAoHo14bTI>ak42
+R9
+32
+Z132 !s108 1512490143.002000
+Z133 !s90 -reportprogress|300|-work|work|D:/graduate courses/VHDL/CA2/code/top.vhd|
+Z134 !s107 D:/graduate courses/VHDL/CA2/code/top.vhd|
+R13
+R14
+!s100 5i`IL=4BeiI3?i0z0U^Y41
+!i10b 1
+Astructural
+R99
+R43
+R50
+R120
+R92
+R85
+R78
+R71
+R64
+R57
+R36
+R29
+R22
+R2
+R3
+R15
+R113
+R106
+R4
+R5
+R128
+l134
+L14
+V4UC]E`FdAOk6BizGb<2h63
+R9
+32
+R132
+R133
+R134
+R13
+R14
+!s100 ]RhY5njD@PP>Dz9nHK:EK3
+!i10b 1
